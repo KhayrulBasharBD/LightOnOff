@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+
+.lights{
+    text-align: center;
+}
+
+.lights img{
+    margin-right: 25px;
+}
+
+.btn{
+    text-align: center;
+    margin-right: 25px;
+}
+
+#OFF{
+    padding: 15px;
+    border-radius: 10px;
+    background: red;
+    color: white;
+    font-size: 2rem;
+}
+
+#ON{
+    padding: 15px;
+    border-radius: 10px;
+    background: green;
+    color: white;
+    font-size: 2rem;
+}
